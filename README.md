@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
-<h3 align="center">A passionate Cybersecurity Enthusiast from India</h3>
+<h3 align="center">A passionate Cybersecurity Enthusiast from India![image](https://github.com/user-attachments/assets/a00287f6-8cff-4b04-92aa-f53807c02c4a)
+ </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/rzFJBemzKQgtMUG50J/giphy.gif" alt="Animated Banner" width="600"/>
