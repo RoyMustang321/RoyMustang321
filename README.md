@@ -29,11 +29,6 @@
 - 📫 How to reach me: **roy321419@gmail.com**
 - 📄 Know about my experiences [here](https://drive.google.com/drive/folders/16EszBZrlY_U2cxiMG4KLLt_hgbp9tw8g)
 
- <h3 align="left">HTB Acheivment:</h3>
- <p align="left">
-   <a href="HackTheBox Acadmician" target="blank">
-     <img align="center" src=
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/roypank54677695" target="blank">
